@@ -1,0 +1,3 @@
+export ARCH=arm
+export CROSS_COMPILE=~/ubertc-arm-eabi-4.9/bin/arm-eabi-
+export d='git cherry-pick'
